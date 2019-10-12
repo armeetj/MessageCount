@@ -1,0 +1,38 @@
+{
+  "name": "messagecount",
+  "version": "1.0.0",
+  "description": "counts the number of messages sent in a discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "messagecount"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord",
+    "bot",
+    "count",
+    "server",
+    "guild",
+    "member",
+    "message",
+    "count",
+    "messages",
+    "social",
+    "media",
+    "node",
+    "node.js",
+    "discord.js"
+  ],
+  "author": "xarmeetx",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.1.0",
+    "mongoose": "^5.7.4"
+  }
+}
